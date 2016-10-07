@@ -1,4 +1,4 @@
-# 1) The library of the university needs to implement a relational database that meets the following requirements:
+# 12) The library of the university needs to implement a relational database that meets the following requirements:
 [Solution](SOLVED.md)
 
 The library allows to access to research articles published in several international journals. Each article has associated a DOI (Digital Object Identifier), a title, a set of keywords, the authors and the journal in which the article has been published.
