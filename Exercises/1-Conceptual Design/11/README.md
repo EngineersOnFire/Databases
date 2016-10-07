@@ -1,4 +1,5 @@
 # 11) The Federal Aviation Regulations needs to implement a relational database that meets the following requirements:
+[Solution](SOLVED.md)
 
 Airports are identified by a code. We also need to register its name and the country in which they are located. At each airport operates at least one airline and at most ten, but an airline can operate in several airports. They are identified by their name.
 
