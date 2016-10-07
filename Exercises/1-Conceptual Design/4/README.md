@@ -1,4 +1,5 @@
 # 4) The economic crisis has led to health managers to decide to look closely at the pharmaceutical expenditure of the citizens. As consequence, a new system for managing prescriptions is required and we have to design the new database. The main requirements of the health system are the following ones.
+[Solution](SOLVED.md)
 
 Patients are identified by their social security number. We will also need to store the name, address and age of each patient.
 
