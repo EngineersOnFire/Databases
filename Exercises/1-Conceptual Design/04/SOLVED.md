@@ -1,1 +1,3 @@
-![Solution Exercise Example](http://imgur.com/MY92nMZ.png)
+_Corrected in class_
+
+![Solution Exercise Example](http://imgur.com/qz6nglr.png)
