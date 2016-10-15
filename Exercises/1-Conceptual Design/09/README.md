@@ -1,5 +1,6 @@
 # 9) We need to design a database for supermarket that meets the following requirements:
 [Solution @RamzaFFT](SOLVED_RamzaFFT.md)
+
 [Solution @DevPGSV](SOLVED_DevPGSV.md)
 
 The customers can place orders online if they have previously registered in the system. During the registration process they must indicate their name, e-mail, password, address (street, number, flat and postal code) and the credit card number they will use to pay the orders. Optionally, they can provide a phone number and a loyalty card (if they have one). Those customers who have a loyalty card will get discount vouchers.
